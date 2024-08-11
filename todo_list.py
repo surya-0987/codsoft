@@ -8,7 +8,7 @@ def main():
         print("3. Mark Task as Done")
         print("4. Exit")
 
-        choice = input("Enter your choice: ")
+        choice = input("Enter your choice(1/2/3/4): ")
 
         if choice == '1':
             print()
